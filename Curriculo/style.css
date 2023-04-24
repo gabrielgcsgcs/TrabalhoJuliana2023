@@ -1,0 +1,69 @@
+.fundo{
+    background-image:url("IMG/Imagem/pexels-elijah-o\'donnell-3473569.jpg");
+}
+
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    
+    padding-right:20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.container{
+    width: 103vh;
+    background-color: rgb(255, 255, 255);
+    height: 103vh;
+}
+
+.min{
+    height: 103vh;
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+.icone{
+    font-size: 14px;
+    text-align: left;
+}
+
+.redes_social{
+    padding-top: 40px;
+
+}
+
+.mg{
+    margin-bottom: 15px;
+}
+
+.Contatos{
+    text-align: center;
+}
+
+.nome1{
+    font-weight: bolder;
+    margin-top: -120px;
+}
+
+.ul1{
+    text-align: left;
+    margin-left: 15px;
+    
+}
+
+h6{
+    font-size: 13px;
+    bottom: 20px;
+}
+
+ul{
+    font-size: 13px;
+}
+
+.nome2{
+    font-weight: bolder;
+}
+
+

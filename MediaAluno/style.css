@@ -1,0 +1,70 @@
+body{
+    background-image: url(IMG/imagem/rm347-porpla-02-a-01.jpg);
+    background-size: contain;
+    text-align: center;
+    font-family: cursive;
+
+    /*caso a fonte nao funcionar use a fonte de baixo que deixei comentada*/
+    /*font-family: Arial, Helvetica, sans-serif;*/
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    font-weight: bolder;
+  }
+  
+  input[type="text"],
+  input[type="number"] {
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  button[type="button"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button[type="button"]:hover {
+    background-color: #3e8e41;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  span {
+    font-weight: bold;
+  }
+
+  .aprovado {
+    background-color: rgb(0, 255, 0);
+  }
+  
+  .reprovado {
+    background-color: rgb(255, 0, 0);
+  }
+  
+  .recuperacao {
+    background-color: rgb(0, 47, 255);
+  }
+
+  .cal{
+    font-weight: bolder;
+  }
